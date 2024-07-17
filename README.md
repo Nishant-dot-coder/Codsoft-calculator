@@ -1,2 +1,3 @@
 # Codsoft-calculator
-For Internship in codsoft.
+ Internship Project in codsoft.
+ Basic Calculator made using HTML, CSS and JAVASCRIPT.
